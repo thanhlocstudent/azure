@@ -52,7 +52,7 @@ body {
   padding: 7px 17px 7px 17px;
 }
 
-#url-bar {
+#thanhcongcu-url {
   height: 28px;
   background-color: #f1f3f4;
   width: 100%;
@@ -66,7 +66,7 @@ body {
   border-bottom: 1px solid lightgray;
 }
 
-#url-bar::-webkit-scrollbar {
+#thanhcongcu-url::-webkit-scrollbar {
   display: none;
 }
 
@@ -150,7 +150,7 @@ body {
   padding: 7px 17px 7px 17px;
 }
 
-#url-bar {
+#thanhcongcu-url {
   height: 28px;
   background-color: #f1f3f4;
   width: 100%;
@@ -164,7 +164,7 @@ body {
   border-bottom: 1px solid lightgray;
 }
 
-#url-bar::-webkit-scrollbar {
+#thanhcongcu-url::-webkit-scrollbar {
   display: none;
 }
 
