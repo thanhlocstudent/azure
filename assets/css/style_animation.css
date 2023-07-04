@@ -13,7 +13,7 @@ body {
   height: 100%;
 }
 
-#title-bar {
+#thanhcongcu {
   height: 37px;
   background-color: #d6dae0;
   width: 100%;
@@ -88,7 +88,7 @@ body {
   font-family: "system";
 }
 
-#title-bar-width {
+#thanh-cong-cu-ngang {
   width: 100%;
 }
 
@@ -122,7 +122,7 @@ body {
 
 
 
-#title-bar_fb {
+#thanhcongcu_fb {
   height: 37px;
   background-color: #d6dae0;
   width: 100%;
@@ -186,7 +186,7 @@ body {
   font-family: "system";
 }
 
-#title-bar-width_fb {
+#thanh-cong-cu-ngang_fb {
   width: 100%;
 }
 

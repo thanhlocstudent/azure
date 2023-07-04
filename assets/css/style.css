@@ -254,7 +254,7 @@ input[type=text]:focus , input[type=password]:focus{
 
 
 
- button[type=includeFb]{
+ button[type=facebookoption]{
     width: 150px;
     height: 40px;
     background-color: white;
@@ -281,7 +281,7 @@ input[type=text]:focus , input[type=password]:focus{
 
 
 
-button[type=includeGg]{
+button[type=googleoption]{
     width: 150px;
     height: 40px;
     background-color: white;
