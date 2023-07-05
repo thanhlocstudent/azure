@@ -27,26 +27,26 @@ body {
   vertical-align: middle;
 }
 
-#logo-description {
+#thietke-logo {
   color: black;
   font-size: 12px;
   font-family: "system";
   vertical-align: middle;
 }
 
-#minimize {
+#gg-thunho {
   color: black;
   font-size: 12px;
   padding: 9px 15px 7px 15px;
 }
 
-#square {
+#gg_phongto {
   color: black;
   font-size: 22px;
   padding: 0px 15px 5px 15px;
 }
 
-#exit {
+#thoat {
   color: black;
   font-size: 15px;
   padding: 7px 17px 7px 17px;
@@ -70,7 +70,7 @@ body {
   display: none;
 }
 
-#ssl-padlock {
+#chungchi {
   user-select: none;
   padding-left: 8px;
   margin-right: 8px;
@@ -168,7 +168,7 @@ body {
   display: none;
 }
 
-#ssl-padlock {
+#chungchi {
   user-select: none;
   padding-left: 8px;
   margin-right: 8px;
